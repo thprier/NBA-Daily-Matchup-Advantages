@@ -15,4 +15,5 @@ To get started with the NBA Matchup Advantage Identifier, follow the link to the
 
 [Link to Tableau dashboard here](https://public.tableau.com/views/NBADailyMatchupAdvantages2023/TeamMatchupSummary?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-![image](https://github.com/thprier/NBA-Daily-Matchup-Advantages/assets/35042328/1201049d-0cb1-4b08-b3f8-1a269480abc8)
+![image](https://github.com/thprier/NBA-Daily-Matchup-Advantages/assets/35042328/e3db629c-04a2-49d5-8219-894aba35634b)
+
